@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T22:36:22.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="45bRyd40vNOsfBgaR6Rw" version="15.9.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-08T22:54:04.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="KbzJOLs7B0sTjsSgnEHF" version="15.9.4" type="github" pages="2">
   <diagram id="y4CA1rRjGdysuxIqKg8y" name="Page-1">
     <mxGraphModel dx="2605" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
             <mxPoint x="600" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VrzXlD3wAECmVU4_dmZE-32" value="доска объявлений" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="VrzXlD3wAECmVU4_dmZE-32" value="Объявления и отзывы" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-85" y="555" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VrzXlD3wAECmVU4_dmZE-33" value="покупатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -135,7 +135,7 @@
             <mxPoint x="220" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VrzXlD3wAECmVU4_dmZE-54" value="просмотр объявлений" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VrzXlD3wAECmVU4_dmZE-54" value="просмотр объявлений и отзывов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-370" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VrzXlD3wAECmVU4_dmZE-55" value="" style="endArrow=none;html=1;endFill=0;" parent="1" source="VrzXlD3wAECmVU4_dmZE-33" target="VrzXlD3wAECmVU4_dmZE-54" edge="1">
