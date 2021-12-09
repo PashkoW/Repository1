@@ -193,23 +193,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alangababyla\\.nuget\\packages\\": {},
+    "C:\\Users\\alangababyla\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alangababyla\\Documents\\GitHub\\Repository1\\Repository1.csproj",
+      "projectUniqueName": "C:\\Users\\alangababyla\\Documents\\GitHub\\Repository1\\Repository1.csproj",
       "projectName": "Repository1",
-      "projectPath": "C:\\Users\\Alangababyla\\Documents\\GitHub\\Repository1\\Repository1.csproj",
-      "packagesPath": "C:\\Users\\Alangababyla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alangababyla\\Documents\\GitHub\\Repository1\\obj\\",
+      "projectPath": "C:\\Users\\alangababyla\\Documents\\GitHub\\Repository1\\Repository1.csproj",
+      "packagesPath": "C:\\Users\\alangababyla\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alangababyla\\Documents\\GitHub\\Repository1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alangababyla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alangababyla\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -259,7 +259,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
